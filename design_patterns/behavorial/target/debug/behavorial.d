@@ -1,0 +1,1 @@
+/home/mishkasistrunk/0x0f\ Softworks/rust_work/rust_work_02/design_patterns/behavorial/target/debug/behavorial: /home/mishkasistrunk/0x0f\ Softworks/rust_work/rust_work_02/design_patterns/behavorial/src/main.rs

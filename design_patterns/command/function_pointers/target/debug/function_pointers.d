@@ -1,0 +1,1 @@
+/home/mishkasistrunk/0x0f\ Softworks/rust_work/rust_work_02/design_patterns/command/function_pointers/target/debug/function_pointers: /home/mishkasistrunk/0x0f\ Softworks/rust_work/rust_work_02/design_patterns/command/function_pointers/src/main.rs
